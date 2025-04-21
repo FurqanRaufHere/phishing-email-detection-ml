@@ -1,2 +1,23 @@
-# phishing-email-detection-ml
-A Machine Learning project to detect phishing emails using Logistic Regression and Support Vector Machine. The project covers the complete ML pipeline — from data preprocessing and feature engineering to model training, evaluation, and visualization. Includes well-commented code, reports, and final insights. 
+# Phishing Email Detection using Machine Learning
+
+This project detects phishing emails using Logistic Regression and SVM. We used feature engineering, scaling, and model evaluation metrics to compare the models.
+
+## 📊 Features
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Logistic Regression & SVM Comparison
+- Visualizations and Evaluation
+
+## 🛠️ Models Used
+- Logistic Regression
+- Support Vector Machine (SVM)
+
+## 📁 Structure
+- `notebooks/`: Code implementation
+- `data/`: Dataset used
+- `images/`: All result visualizations
+- `models/`: Saved trained models (optional)
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
